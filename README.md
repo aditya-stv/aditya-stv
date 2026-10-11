@@ -32,7 +32,7 @@
 | [**ctfsecurus**](https://ctfsecurus.onrender.com/) | Capture-the-flag platform · [live demo](https://ctfsecurus.onrender.com/) | TypeScript, Render |
 | [**windowsforensics**](https://github.com/aditya-stv/windowsforensics) | Windows forensics tooling: multi-format security log analyzer · [live demo](https://windowsforensics-ai.onrender.com/) | Python |
 | [**callaudit**](https://github.com/aditya-stv/callaudit) | Android forensic auditor: call logs, SMS, contacts and more over ADB | Python, Streamlit |
-| [**qv2**](https://endnote-trustless-lunar.ngrok-free.dev/release/download) | Android app for call log auditing · [live demo](https://endnote-trustless-lunar.ngrok-free.dev/release/download) | Kotlin |
+| [**qv2**](https://endnote-trustless-lunar.ngrok-free.dev/release/download) | Post Quantum based Android Communication App · [live demo](https://endnote-trustless-lunar.ngrok-free.dev/release/download) | Kotlin |
 
 ---
 
