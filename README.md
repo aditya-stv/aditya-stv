@@ -28,7 +28,7 @@
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**GST-analytics**](https://github.com/aditya-stv/GST-analytics) | GST data analytics dashboard — [live demo](https://gst-analytics.streamlit.app/) | Python, Streamlit |
-| [**ctfsecurus**](https://ctfsecurus.onrender.com/) | Capture-the-flag platform — [live demo](https://ctfsecurus.onrender.com/) · [source](https://github.com/aditya-stv/ctf) | TypeScript, Render |
+| [**ctfsecurus**](https://ctfsecurus.onrender.com/) | Capture-the-flag platform — [live demo](https://ctfsecurus.onrender.com/) | TypeScript, Render |
 | [**windowsforensics**](https://github.com/aditya-stv/windowsforensics) | Windows forensics tooling | Python |
 | [**callaudit**](https://github.com/aditya-stv/callaudit) | Call auditing project | Python |
 | [**qv2**](https://github.com/aditya-stv/qv2) | Android app | Kotlin |
