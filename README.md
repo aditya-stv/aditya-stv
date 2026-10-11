@@ -27,16 +27,12 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**GST-analytics**](https://github.com/aditya-stv/GST-analytics) | GST data analytics dashboard — [live demo](https://gst-analytics.streamlit.app/) | Python, Streamlit |
-| [**ctfsecurus**](https://github.com/aditya-stv/ctfsecurus) | Capture-the-flag platform — [live demo](https://ctfsecurus.onrender.com/) | TypeScript, Render |
-| [**windowsforensics**](https://github.com/aditya-stv/windowsforensics) | Windows forensics tooling [live demo](https://windowsforensics-ai.onrender.com/)  | Python | 
-| [**callaudit**](https://github.com/aditya-stv/callaudit) | Call auditing project | Python |
-| [**qv2**](https://github.com/aditya-stv/qv2) | [live demo](https://endnote-trustless-lunar.ngrok-free.dev/release/download) Android app | Kotlin |
-| [**sih2026**](https://github.com/aditya-stv/sih2026) | Smart India Hackathon 2026 project | Python |
-| [**nfsu-tc-coding-club-codequest**](https://github.com/aditya-stv/nfsu-tc-coding-club-codequest) | CodeQuest event site for the NFSU TC Coding Club | TypeScript |
-| [**week3-waste-classification**](https://github.com/aditya-stv/week3-waste-classification) | Waste classification with a CNN | Python, Jupyter |
-| [**disease-prediction**](https://github.com/aditya-stv/disease-prediction) | Disease prediction with ML | Python, Jupyter |
-| [**stegnography**](https://github.com/aditya-stv/stegnography) | Hiding data inside images | — |
+| [**GST-analytics**](https://github.com/aditya-stv/GST-analytics) | India GST & state income analytics dashboard · [live demo](https://gst-analytics.streamlit.app/) | Python, Streamlit |
+| [**ev**](https://github.com/aditya-stv/ev) | AMTEAD: ensemble anomaly/DDoS detection for EV charging infrastructure · [live demo](https://adityastviitm-amtead.hf.space) | Python, PyTorch |
+| [**ctfsecurus**](https://ctfsecurus.onrender.com/) | Capture-the-flag platform · [live demo](https://ctfsecurus.onrender.com/) | TypeScript, Render |
+| [**windowsforensics**](https://github.com/aditya-stv/windowsforensics) | Windows forensics tooling: multi-format security log analyzer · [live demo](https://windowsforensics-ai.onrender.com/) | Python |
+| [**callaudit**](https://github.com/aditya-stv/callaudit) | Android forensic auditor: call logs, SMS, contacts and more over ADB | Python, Streamlit |
+| [**qv2**](https://endnote-trustless-lunar.ngrok-free.dev/release/download) | Android app for call log auditing · [live demo](https://endnote-trustless-lunar.ngrok-free.dev/release/download) | Kotlin |
 
 ---
 
