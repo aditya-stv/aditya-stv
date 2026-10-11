@@ -29,7 +29,7 @@
 | --- | --- | --- |
 | [**GST-analytics**](https://github.com/aditya-stv/GST-analytics) | GST data analytics dashboard — [live demo](https://gst-analytics.streamlit.app/) | Python, Streamlit |
 | [**ctfsecurus**](https://github.com/aditya-stv/ctfsecurus) | Capture-the-flag platform — [live demo](https://ctfsecurus.onrender.com/) | TypeScript, Render |
-| [**windowsforensics**](https://github.com/aditya-stv/windowsforensics) | [live demo](https://windowsforensics-ai.onrender.com/) Windows forensics tooling | Python | 
+| [**windowsforensics**](https://github.com/aditya-stv/windowsforensics) | Windows forensics tooling [live demo](https://windowsforensics-ai.onrender.com/)  | Python | 
 | [**callaudit**](https://github.com/aditya-stv/callaudit) | Call auditing project | Python |
 | [**qv2**](https://github.com/aditya-stv/qv2) | Android app | Kotlin |
 | [**sih2026**](https://github.com/aditya-stv/sih2026) | Smart India Hackathon 2026 project | Python |
